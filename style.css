@@ -1,14 +1,18 @@
 h1 {
     text-align: center;
     font-size: 50px;
+    color: red;
+
 }
 
 h2 {
     text-align: center;
+    color: red;
+    font-size: 30px;
 }
 
 body {
-    color: red;
+    
 }
     
 #bulbasaur img{
@@ -25,4 +29,38 @@ body {
 
 #pics {
     text-align: center;
+}
+
+.wrapper{
+    display: flex;
+    padding: ;
+    flex-direction: row;
+    display: center;
+}
+
+.name {
+    font-size: large;
+    font-weight: bold;
+}
+
+.name2 {
+    font-size: large;
+    font-weight: bold;
+}
+
+.name3 {
+    font-size: large;
+    font-weight: bold;
+}
+
+#div1 {
+    padding: 50px;
+}
+
+#div2 {
+    padding: 50px;
+}
+
+#div3 {
+    padding: 50px;
 }
